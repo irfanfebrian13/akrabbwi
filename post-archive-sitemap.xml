@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This sitemap was dynamically generated on 7 January 2026 at 1:31 pm by All in One SEO v4.6.4 - the original SEO plugin for WordPress. -->
+
+<?xml-stylesheet type="text/xsl" href="https://irfanfebrian13.github.io/akrabbwi/main-sitemap.xsl"?>
+<urlset
+	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+	xmlns:xhtml="http://www.w3.org/1999/xhtml"
+	xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+>
+	<url>
+		<loc><![CDATA[https://irfanfebrian13.github.io/akrabbwi/services/]]></loc>
+		<lastmod><![CDATA[2020-10-20T13:19:21+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
+	<url>
+		<loc><![CDATA[https://irfanfebrian13.github.io/akrabbwi/portfolio/]]></loc>
+		<lastmod><![CDATA[2020-10-19T18:04:59+00:00]]></lastmod>
+		<changefreq><![CDATA[monthly]]></changefreq>
+		<priority><![CDATA[0.5]]></priority>
+	</url>
+</urlset>
